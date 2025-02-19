@@ -50,5 +50,5 @@ Feel free to contribute to this project. Fork the repo, make changes, and submit
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 📬 Contact
-- GitHub: [Your Profile](https://github.com/your-username)
-- Email: your-email@example.com
+- GitHub: [Your Profile](https://github.com/srujalprusty)
+- Email: your-s.srujal0612@gmail.com
